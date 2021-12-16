@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{latexcompanion}
+M.~Goossens, F.~Mittelbach, and A.~Samarin, {\em The \LaTeX\ Companion}.
+\newblock Reading, Massachusetts: Addison-Wesley, 1993.
+
+\bibitem{einstein}
+A.~Einstein, ``{Zur Elektrodynamik bewegter K{\"o}rper}. ({German}) [{On} the
+  electrodynamics of moving bodies],'' {\em Annalen der Physik}, vol.~322,
+  no.~10, pp.~891--921, 1905.
+
+\bibitem{knuthwebsite}
+D.~Knuth, ``Knuth: Computers and typesetting.''
+  \url{https://www-cs-faculty.stanford.edu/~knuth/abcde.html}.
+
+\bibitem{overleaf}
+Overleaf, ``Learn {\LaTeX} in 30 minutes.''
+  \url{https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes}.
+
+\end{thebibliography}
